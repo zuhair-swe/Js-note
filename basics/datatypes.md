@@ -1,13 +1,25 @@
-# Variables in JavaScript
 
-## Types
+# Data Types in JavaScript
 
-- var → function scoped
-- let → block scoped
-- const → cannot be reassigned
+## Primitive Types
+
+- String
+- Number
+- Boolean
+- Null
+- Undefined
+- Symbol
+- BigInt
+
+## Reference Types
+
+- Object
+- Array
+- Function
 
 ## Example
 
 ```js
-let name = "Zuhair";
-const age = 22;
+let name = "Ali";      // string
+let age = 20;          // number
+let isStudent = true;  // boolean
